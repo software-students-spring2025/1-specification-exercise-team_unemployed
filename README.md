@@ -5,19 +5,90 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Cyan Yan: <https://github.com/chenxin-yan>
+- Alan Chen: <https://github.com/Chen-zexi>
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+### Interview with Lauren
+
+#### Background Discussion
+**Interviewer:** Could you share a bit about yourself and what you hope to find on a new social content-sharing platform?
+
+**Lauren:** Sure! I'm a design student who's always looking for ways to improve my skills. I'd love to connect with people who are passionate about design—both professionals and peers—so I can learn new techniques, discover which software to start with, and see examples of excellent work.
+
+#### Lauren's Goals & Needs
+
+1. **Learn from Passionate Creators and Professionals**
+   - Want to see tutorials, tips, and real-world project breakdowns
+   - Learn from both professionals and fellow students
+
+2. **Engaging, Visual Browsing Experience**
+   - Visual learning focused
+   - Need platform with images, videos, and quick design project previews
+
+#### Lauren's Problems & Frustrations
+
+1. **Hard to Discover Specialized Topics**
+   - Must switch between multiple platforms (Reddit, design forums, Instagram, Behance)
+   - No single platform balancing text and visual content
+
+2. **Text-Focused Communities**
+   - Overwhelming amount of text content
+   - Difficulty finding quick visual references
+
+### Interview with Alan
+
+#### Background Discussion
+**Interviewer:** Could you tell us what you look for in a social content platform?
+
+**Alan:** Absolutely. I want to find other college students' experiences about courses, career tips from alumni, and industry insights from professionals. Plus, I love exploring food and travel recommendations—ideally from locals or real visitors who've been there before.
+
+#### Alan's Goals & Needs
+
+1. **Niche & Local Insights**
+   - Seeking specific information about restaurants near campus
+   - Interest in authentic travel tips from experienced visitors
+
+2. **All-In-One Accessibility**
+   - Desire for unified platform experience
+   - Need single source for text, images, and reviews
+
+#### Alan's Problems & Frustrations
+
+1. **Irrelevant or Hard-to-Find Information**
+   - Overload of sponsored or unrelated information across multiple platforms
+   - Missing actual user experiences or insights due to scattered resources
+
+2. **Difficulty Obtaining Truthful Feedback**
+   - Ads and business promotions often overshadow genuine user reviews
+   - Hard to verify real experiences when posts are commercialized or biased
+
+### Platform Core Value
+
+1. **Niche & Local Insights**  
+   - Explore super-specific info about local spots or unique topics that matter to you  
+   - Discover communities and discussions tailored to your personal interests  
+
+2. **Learning from Passionate Creators & Professionals**  
+   - Connect with people who love sharing tutorials, hands-on tips, and real-world know-how  
+   - Pick up skills fast from clear explanations and firsthand experiences  
+
+3. **Engaging, Visual Browsing Experience**  
+   - Browse a lively feed of images, videos, and quick posts that catch your eye  
+   - Easily scroll through content to find exactly what sparks your curiosity  
+
+4. **All-In-One Accessibility**  
+   - Stay on one platform for both deep insights and quick updates  
+   - Avoid juggling multiple apps—focus on exploring fun and useful content in one place
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+"A **community-driven** social platform that allows users to explore and share **visual content** across **diverse**, **passion-based communities**, making it easy to find **real experiences**, **expert insights**, and **niche information** all in one place."
 
 ## User Requirements
 
 1. **Interacting with Posts**  
-   _As a user, I want to like, comment on, and share other users’ posts so that I can engage with the content and show my support or feedback._
+   _As a user, I want to like, comment on, and share other users' posts so that I can engage with the content and show my support or feedback._
 
 2. **Reward Tokens to Posts**  
    _As a user, I want the ability to sponsor other users' posts with tokens for their posts so that I can show my appreciation and support._
