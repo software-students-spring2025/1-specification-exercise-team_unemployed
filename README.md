@@ -5,6 +5,7 @@ A little exercise to get started with the specification phase of the software de
 ## Team members
 
 - Cyan Yan: <https://github.com/chenxin-yan>
+- Jackson Chen: <https://github.com/jaxxjj>
 
 ## Stakeholders
 
@@ -51,7 +52,15 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. **Interacting with Posts**  
+   _As a user, I want to like, comment on, and share other users’ posts so that I can engage with the content and show my support or feedback._
+
+![Interacting with Posts](./public/images/interact_with_posts.png)
+
+2. **Reward Tokens to Posts**  
+   _As a user, I want the ability to sponsor other users' posts with tokens for their posts so that I can show my appreciation and support._
+
+![Reward Tokens to Posts](./public/images/sponsor_post.png)
 
 ## Clickable Prototype
 
