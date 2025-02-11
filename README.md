@@ -10,12 +10,12 @@ A little exercise to get started with the specification phase of the software de
 
 - Jackson Chen: <https://github.com/jaxxjj>
 
-
 ## Stakeholders
 
 ### Interview with Lauren
 
 #### Background Discussion
+
 **Interviewer:** Could you share a bit about yourself and what you hope to find on a new social content-sharing platform?
 
 **Lauren:** Sure! I'm a design student who's always looking for ways to improve my skills. I'd love to connect with people who are passionate about design—both professionals and peers—so I can learn new techniques, discover which software to start with, and see examples of excellent work.
@@ -23,6 +23,7 @@ A little exercise to get started with the specification phase of the software de
 #### Lauren's Goals & Needs
 
 1. **Learn from Passionate Creators and Professionals**
+
    - Want to see tutorials, tips, and real-world project breakdowns
    - Learn from both professionals and fellow students
 
@@ -33,6 +34,7 @@ A little exercise to get started with the specification phase of the software de
 #### Lauren's Problems & Frustrations
 
 1. **Hard to Discover Specialized Topics**
+
    - Must switch between multiple platforms (Reddit, design forums, Instagram, Behance)
    - No single platform balancing text and visual content
 
@@ -43,6 +45,7 @@ A little exercise to get started with the specification phase of the software de
 ### Interview with Alan
 
 #### Background Discussion
+
 **Interviewer:** Could you tell us what you look for in a social content platform?
 
 **Alan:** Absolutely. I want to find other college students' experiences about courses, career tips from alumni, and industry insights from professionals. Plus, I love exploring food and travel recommendations—ideally from locals or real visitors who've been there before.
@@ -50,6 +53,7 @@ A little exercise to get started with the specification phase of the software de
 #### Alan's Goals & Needs
 
 1. **Niche & Local Insights**
+
    - Seeking specific information about restaurants near campus
    - Interest in authentic travel tips from experienced visitors
 
@@ -60,6 +64,7 @@ A little exercise to get started with the specification phase of the software de
 #### Alan's Problems & Frustrations
 
 1. **Irrelevant or Hard-to-Find Information**
+
    - Overload of sponsored or unrelated information across multiple platforms
    - Missing actual user experiences or insights due to scattered resources
 
@@ -69,20 +74,23 @@ A little exercise to get started with the specification phase of the software de
 
 ### Platform Core Value
 
-1. **Niche & Local Insights**  
-   - Explore super-specific info about local spots or unique topics that matter to you  
-   - Discover communities and discussions tailored to your personal interests  
+1. **Niche & Local Insights**
 
-2. **Learning from Passionate Creators & Professionals**  
-   - Connect with people who love sharing tutorials, hands-on tips, and real-world know-how  
-   - Pick up skills fast from clear explanations and firsthand experiences  
+   - Explore super-specific info about local spots or unique topics that matter to you
+   - Discover communities and discussions tailored to your personal interests
 
-3. **Engaging, Visual Browsing Experience**  
-   - Browse a lively feed of images, videos, and quick posts that catch your eye  
-   - Easily scroll through content to find exactly what sparks your curiosity  
+2. **Learning from Passionate Creators & Professionals**
 
-4. **All-In-One Accessibility**  
-   - Stay on one platform for both deep insights and quick updates  
+   - Connect with people who love sharing tutorials, hands-on tips, and real-world know-how
+   - Pick up skills fast from clear explanations and firsthand experiences
+
+3. **Engaging, Visual Browsing Experience**
+
+   - Browse a lively feed of images, videos, and quick posts that catch your eye
+   - Easily scroll through content to find exactly what sparks your curiosity
+
+4. **All-In-One Accessibility**
+   - Stay on one platform for both deep insights and quick updates
    - Avoid juggling multiple apps—focus on exploring fun and useful content in one place
 
 ## Product Vision Statement
@@ -138,4 +146,4 @@ A little exercise to get started with the specification phase of the software de
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+<https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&starting-point-node-id=2%3A4&t=AJEr1yP5ksaNzwBx-1>
