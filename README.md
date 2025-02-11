@@ -10,6 +10,8 @@ A little exercise to get started with the specification phase of the software de
 
 - Jackson Chen: <https://github.com/jaxxjj>
 
+- Ray Huang: <https://github.com/RayHuang3339>
+
 ## Stakeholders
 
 ### Interview with Lauren
@@ -146,4 +148,4 @@ A little exercise to get started with the specification phase of the software de
 
 ## Clickable Prototype
 
-<https://www.figma.com/proto/QMYlMBSyxmgCRCyWZMIagY/Team_A?node-id=2-4&starting-point-node-id=2%3A4&t=AJEr1yP5ksaNzwBx-1>
+<https://www.figma.com/proto/TpDMYnibZxb8Vrg09lHn9h/Team_Unemployed?node-id=2-2&t=kG8uD6TGWldbTBM8-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=2%3A2>
